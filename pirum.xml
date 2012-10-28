@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+    <name>henryhayes.github.com/pear</name>
+    <summary>Henry Hayes' PEAR Channel Server</summary>
+    <alias>henryhayes</alias>
+    <url>http://henryhayes.github.com/pear</url>
+</server>
